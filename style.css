@@ -67,6 +67,8 @@
     /* background-color: beige; */
     /* align-items:end; */
     margin-top:35px;
+    align-items: center;
+
 }
 .video{
     height:500px;
