@@ -2,12 +2,12 @@
 .reelcontainer {
     /* background-color: blue; */
     width: 350px;
-    height:55px;
+    padding:1px;
     padding-top: 2px;
     background-color: black;
-    /* border:2px solid brown; */
+    border:2px solid brown;
     color:white;
-    border-radius:9px;
+    border-radius:10px;
    
 
 }
