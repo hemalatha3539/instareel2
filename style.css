@@ -33,6 +33,8 @@
     display:flex;
     object-fit: cover;
     /* margin-right:-170px; */
+    align-items: center;
+
     
 }
 .img{
@@ -46,7 +48,9 @@
     width:110px;
     height:40px;
     text-align:start;
+    align-items: center;
 }
+
 .id{
     margin-top:-3px;
     margin-left:2px;
