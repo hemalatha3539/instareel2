@@ -69,8 +69,8 @@
     height:500px;
     width:350px;
     box-sizing: border-box;
-    object-fit: cover;
-    background-color: black;
+/*     object-fit: cover; */
+/*     background-color: black; */
     /* border:2px solid brown; */
 }
 .iconsection{
