@@ -8,8 +8,7 @@
     border:2px solid brown;
     color:white;
     border-radius:10px;
-   
-
+    align-items: center;
 }
 
 .profilesection {
